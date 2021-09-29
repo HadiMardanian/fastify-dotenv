@@ -1,0 +1,29 @@
+{
+  "name": "@hadimardanian/fastify-dotenv",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Hadi <mardanianhadi@gmail.com> (https://github.com/HadiMardanian/fastify-dotenv)",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.21.6",
+    "fastify-error": "^0.3.1",
+    "fastify-plugin": "^3.0.0",
+    "fastify-warning": "^0.2.0",
+    "under-pressure": "^5.7.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HadiMardanian/fastify-dotenv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HadiMardanian/fastify-dotenv/issues"
+  },
+  "homepage": "https://github.com/HadiMardanian/fastify-dotenv#readme"
+}
