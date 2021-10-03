@@ -48,8 +48,4 @@ fastify.listen(4000, function serverListen() {
 
 > NODE_ENV=production
 
-<<<<<<< HEAD
   
-=======
-  
->>>>>>> e84cb236ad66f37d6b1c70d7e17768d889012392
