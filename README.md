@@ -20,7 +20,11 @@ const fastify = Fastify();
 const dotenv = require('@hadimardanian/fastify-dotenv');
 
 fastify.register(dotenv, {
+<<<<<<< HEAD
     path: '/config/.env', // (1) the "/" meas
+=======
+    path: '/config/.env', // (1)
+>>>>>>> e84cb236ad66f37d6b1c70d7e17768d889012392
     decorator: 'env' // (2)
 })
 
@@ -48,4 +52,8 @@ fastify.listen(4000, function serverListen() {
 
 > NODE_ENV=production
 
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> e84cb236ad66f37d6b1c70d7e17768d889012392
