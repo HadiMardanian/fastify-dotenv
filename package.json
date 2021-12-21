@@ -8,14 +8,11 @@
   "author": "Hadi <mardanianhadi@gmail.com> (https://github.com/HadiMardanian/fastify-dotenv)",
   "license": "ISC",
   "dependencies": {
-    "fastify-error": "^0.3.1",
-    "fastify-plugin": "^3.0.0",
-    "fastify-warning": "^0.2.0"
+    "fastify-plugin": "^3.0.0"
   },
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HadiMardanian/fastify-dotenv.git"
